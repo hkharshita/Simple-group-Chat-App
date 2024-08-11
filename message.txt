@@ -1,14 +1,4 @@
 hkharshita:hello
 monu:hello harshu
-hkharshita:how are u monu?
-monu:i am fine what about you harshu.
-hkharshita:me too sisy
-monu:wanna go to gym?
-hkharshita:sure! In the evening.
-monu:sure! ok see you in evening.
-hkharshita:bye!
-monu:by by
-hkharshita:bring shoes
-monu:sure ok
 testuser:hey
-testuser:i am new member in this group
+
